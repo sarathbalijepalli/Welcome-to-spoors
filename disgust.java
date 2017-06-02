@@ -2,6 +2,6 @@ class alex2
 {
 public static void main(String args[])
 {
-System.out.println("this is disgusting ");
+System.out.println("this  is disgusting ");
 }
 }
